@@ -1,0 +1,8 @@
+numpy
+torch
+transformers
+peft
+datasets
+sqlparse
+rapidfuzz
+pandas
