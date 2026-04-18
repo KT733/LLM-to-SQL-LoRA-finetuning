@@ -1,10 +1,5 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/JXZbFTaY)
-
 # LoRA Fine-tuning   
-Assignment 3: Implement LoRA fine-tuning with PEFT.
-
-## Docker Location
-My image is built in deepdish2 named **mjc3869/assign3_image**. under working directory **/app**. The image ID is **09e375da1e68**.
+Implement LoRA fine-tuning with PEFT.
 
 ## Python Requirements
 This project requires Python 3.10 or later. The libraries needed are listed in the `requirements.txt` file.
